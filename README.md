@@ -1,1 +1,6 @@
-This organ donation website, OrgPulse is a group project on web development. The website has provision for registering either as donors or patients and recieving updates by maintaining a profile and also provides educational content on organ donation and transplantation.
+OrgPulse is a an organ donation website which:
+* Allows users to register either as a Donors or a Patient
+* Enables users to maintain a profile and receive updates such as organ match alerts
+* Provides educational content on organ donation and transplantation to increase understanding
+  
+(Learning Project)
